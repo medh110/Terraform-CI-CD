@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e829071-aa94-4da3-912e-6631d02b7755" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/online-exam-portal" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;contexts&quot;: [
+    {
+      &quot;name&quot;: &quot;arn:aws:eks:ap-south-1:749760571158:cluster/hu-eks-staging-cluster&quot;,
+      &quot;originalNamespace&quot;: &quot;monitoring&quot;
+    }
+  ],
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="arn:aws:eks:ap-south-1:749760571158:cluster/hu-eks-staging-cluster" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2Z9zkUQfkkFlgab6erBRq1RL1MY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Applications/projects/Heubert/heubert(aws)/prod-infra",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/roles and policies" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e829071-aa94-4da3-912e-6631d02b7755" name="Changes" comment="" />
+      <created>1701849225848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701849225848</updated>
+      <workItem from="1701849226871" duration="2575000" />
+      <workItem from="1701923064343" duration="1873000" />
+      <workItem from="1701927486547" duration="440000" />
+      <workItem from="1702015440694" duration="30060000" />
+      <workItem from="1702539686539" duration="7138000" />
+      <workItem from="1702611553105" duration="1320000" />
+      <workItem from="1702784793871" duration="11976000" />
+      <workItem from="1702984609471" duration="592000" />
+      <workItem from="1703044837547" duration="30000" />
+      <workItem from="1703044913638" duration="146000" />
+      <workItem from="1703045105592" duration="10771000" />
+      <workItem from="1703133471237" duration="18647000" />
+      <workItem from="1703475403871" duration="19288000" />
+      <workItem from="1703654820607" duration="281000" />
+      <workItem from="1703665968551" duration="831000" />
+      <workItem from="1703757984596" duration="7000" />
+      <workItem from="1703759370267" duration="223000" />
+      <workItem from="1703820962269" duration="531000" />
+      <workItem from="1704169815875" duration="2373000" />
+      <workItem from="1704193189028" duration="891000" />
+      <workItem from="1704271255172" duration="598000" />
+      <workItem from="1704358305587" duration="159000" />
+      <workItem from="1704359134292" duration="49000" />
+      <workItem from="1704359371113" duration="17000" />
+      <workItem from="1704359850787" duration="42000" />
+      <workItem from="1704363058859" duration="1257000" />
+      <workItem from="1706069017642" duration="67000" />
+      <workItem from="1707111735513" duration="219000" />
+      <workItem from="1707985298669" duration="88000" />
+      <workItem from="1707985445307" duration="1865000" />
+      <workItem from="1708054919531" duration="7000" />
+      <workItem from="1709697903090" duration="1016000" />
+      <workItem from="1709700319123" duration="170000" />
+      <workItem from="1709706100346" duration="1264000" />
+      <workItem from="1709801045368" duration="741000" />
+      <workItem from="1710317646205" duration="5501000" />
+      <workItem from="1710751676801" duration="74000" />
+      <workItem from="1710997514499" duration="921000" />
+      <workItem from="1711001396030" duration="1699000" />
+      <workItem from="1711347540970" duration="955000" />
+      <workItem from="1711443349763" duration="4283000" />
+      <workItem from="1711451864619" duration="6000" />
+      <workItem from="1711612535119" duration="15000" />
+      <workItem from="1711613920231" duration="9136000" />
+      <workItem from="1711690758103" duration="14000" />
+      <workItem from="1711690835776" duration="7000" />
+      <workItem from="1711700515333" duration="15000" />
+      <workItem from="1730718762665" duration="6399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
